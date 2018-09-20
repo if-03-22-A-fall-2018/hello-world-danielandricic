@@ -12,6 +12,6 @@
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) {
-  printf("Hello, Andricic Daniel.\n");
+  printf("Hello, Andricic Daniel..\n");
   return 0;
 }
