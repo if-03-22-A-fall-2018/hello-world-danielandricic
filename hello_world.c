@@ -1,5 +1,5 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Class: 2DHIF
+ *				HTBLA-Leonding / Class: 2AHIF
  * ---------------------------------------------------------
  * Exercise Number: 1
  * Title:			Hello World
@@ -12,6 +12,6 @@
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) {
-  printf("Hello, Andricic Daniel..\n");
+  printf("Hello, Andricic Daniel.\n");
   return 0;
 }
